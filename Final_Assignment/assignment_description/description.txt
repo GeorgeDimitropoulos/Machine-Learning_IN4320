@@ -1,0 +1,5 @@
+In this work, we deal with a two-class classification problem in 204 dimensions, where we are given
+a small labeled train set and a large unlabeled test that has undergone a corruption of some sort in
+the form of additive uniform noise. Our goal is to implement the best performing classifier on the
+unlabeled data in terms of the error on this test set. Our approach is based on an Active Learning
+approach.
